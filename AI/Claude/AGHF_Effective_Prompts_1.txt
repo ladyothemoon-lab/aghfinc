@@ -1,0 +1,81 @@
+AGHF EFFECTIVE PROMPTS — THINGS YOU'RE NOT USING YET
+(Companion reference file — practical prompt patterns based on how we actually work together)
+
+============================================================
+1. SESSION STARTUP
+============================================================
+Instead of: "Let's keep working on the board documents"
+Try: "Here's the current AGHF Session Log [paste/upload]. Pick up from the next pending item."
+
+Why it helps: Forces me to actually read the log and orient before jumping in, instead of guessing at where we left off.
+
+============================================================
+2. REPO-AWARE DRAFTING
+============================================================
+Instead of: "Draft the Banking Resolution"
+Try: "Check the Board Meetings folder on the AGHF GitHub repo for anything already drafted on this topic before you start. If nothing exists, draft the Banking Resolution using the standard WHEREAS/RESOLVED format."
+
+Why it helps: Prevents duplicate work and catches drafts you may have started and forgotten about.
+
+============================================================
+3. TEMPLATE FIDELITY (you already do this well, but make it explicit every time)
+============================================================
+Instead of: "Make this MOU"
+Try: "Use AGHF_The_Bridge_MOU.docx as the exact structural template — same headings, color scheme, table layout, header/footer. Only change the content, not the formatting."
+
+Why it helps: You already know to do this, but naming the exact reference file up front (instead of me inferring it) saves a revision round.
+
+============================================================
+4. BATCH STATUS CHECK
+============================================================
+Try: "Give me a status table of the 42-document master list — what's drafted, what's pending, grouped by category."
+
+Why it helps: You have this info scattered across the session log and your own memory. Asking for a consolidated table before a work session helps you prioritize which category to tackle next.
+
+============================================================
+5. PLACEHOLDER TRACKING
+============================================================
+Try: "List every open placeholder across all drafted documents right now, not just the MOU."
+
+Why it helps: The Food and Fellowship MOU isn't the only doc that will have placeholders once you're deeper into the 42-item list (compensation figures, dates, board approval language, etc.). Asking for a full sweep periodically keeps things from slipping through.
+
+============================================================
+6. BEFORE MAKING SOMETHING PUBLIC-FACING
+============================================================
+Try: "Before I share/publish this, scan it for anything that shouldn't be public yet — banking info, unapproved compensation figures, personal contact details, draft language that reads as final."
+
+Why it helps: Useful now with the repo public for class, and critical later once real donor/financial data starts going into project files or documents.
+
+============================================================
+7. CLOSING OUT A SESSION
+============================================================
+Try: "Update the session log — add what we did today to the Change Log and update any status fields that changed."
+
+Why it helps: You've been doing this informally; making it a standard last step (every time, not just when you remember) keeps the log actually reliable instead of going stale.
+
+============================================================
+8. CROSS-CHECKING AGAINST THE MASTER KNOWLEDGE BASE
+============================================================
+Try: "Before drafting this, check it against the Master Knowledge Base for conflicts — figures, titles, program details, anything that should match exactly."
+
+Why it helps: You update the MKB periodically; new drafts should always be checked against the latest version rather than relying on memory of older figures/details from earlier sessions.
+
+============================================================
+9. SPONSORSHIP / FUNDRAISING WORK (upcoming)
+============================================================
+Try: "Keep this no-pressure and relationship-first — we're not yet holding formal 501(c)(3) determination, so don't imply tax-deductibility or make impact claims we can't back up yet."
+
+Why it helps: This is already your stated principle, but stating it explicitly in fundraising-related prompts (rather than assuming I'll remember the constraint every time) reduces the risk of overreaching language slipping into donor-facing material.
+
+============================================================
+10. WHEN YOU WANT OPTIONS, NOT JUST ONE DRAFT
+============================================================
+Try: "Give me two versions of this resolution — one conservative/minimal, one more detailed — and I'll pick which direction to expand."
+
+Why it helps: For board-sensitive language especially (compensation, authority delegation), seeing a range before committing to one draft can save a rewrite cycle.
+
+============================================================
+NOTES
+============================================================
+- These aren't required every time — they're patterns to reach for when the situation calls for it.
+- Add to this file as you notice other repeatable phrasing that gets better results.
