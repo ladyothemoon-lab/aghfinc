@@ -1,0 +1,117 @@
+AGHF TEMPLATE LIBRARY INDEX
+
+AgroHouse Foundation (AGHF)
+Template Library Repository
+
+==================================================
+BRANDING
+==================================================
+
+01_Cover_Page_TEMPLATE
+10_Cover_Letter_Mission_Vision_One_Pager_TEMPLATE
+
+==================================================
+BOARD
+==================================================
+
+02_Board_Contact_Directory_TEMPLATE
+03_Board_Member_Information_Sheet_TEMPLATE
+09_Board_Role_Summary_TEMPLATE
+24_Board_Member_Onboarding_Packet_TEMPLATE
+26_Board_Member_Agreement_TEMPLATE
+27_Board_Meeting_Minutes_TEMPLATE
+
+==================================================
+GOVERNANCE
+==================================================
+
+04_Authorized_Signer_Record_TEMPLATE
+12_Appointment_Resolution_TEMPLATE
+13_Conflict_of_Interest_Policy_TEMPLATE
+14_Conflict_of_Interest_Disclosure_Statement_TEMPLATE
+15_Whistleblower_Policy_TEMPLATE
+16_Financial_Controls_Policy_TEMPLATE
+19_Record_Retention_Document_Destruction_POLICY_TEMPLATE
+20_Code_of_Ethics_Policy_TEMPLATE
+21_Board_Recruitment_Succession_Policy_TEMPLATE
+25_Bylaws_TEMPLATE
+28_Founder_Recognition_Resolution_TEMPLATE
+
+==================================================
+LEGAL & COMPLIANCE
+==================================================
+
+05_eSignature_Consent_Enrollment_Form_TEMPLATE
+23_Acknowledgment_Form_TEMPLATE
+30_Founder_IP_Assignment_License_Agreement_TEMPLATE
+
+==================================================
+HUMAN RESOURCES
+==================================================
+
+11_Compensation_Agreement_TEMPLATE
+29_Founder_Employment_Agreement_TEMPLATE
+
+==================================================
+MEETINGS
+==================================================
+
+06_Meeting_Agenda_TEMPLATE
+07_Meeting_Attendance_Log_TEMPLATE
+08_Meeting_Action_Item_Tracker_TEMPLATE
+
+==================================================
+FINANCE
+==================================================
+
+17_Donation_Acceptance_Policy_TEMPLATE
+18_Gift_In_Kind_Valuation_Policy_TEMPLATE
+37_Fundraiser_Proposal_TEMPLATE
+38_Fundraising_Strategy_Framework_TEMPLATE
+
+==================================================
+GRANTS
+==================================================
+
+36_Grant_Donation_Application_TEMPLATE
+
+==================================================
+PROGRAMS
+==================================================
+
+22_Community_Partnership_Policy_TEMPLATE
+31_Program_Charter_TEMPLATE
+32_Program_Operating_Policy_TEMPLATE
+33_Program_Budget_Approval_Package_TEMPLATE
+34_Program_Staffing_Package_TEMPLATE
+35_MOU_Partnership_TEMPLATE
+
+==================================================
+MARKETING
+==================================================
+
+39_Marketing_Flyer_One_Pager_TEMPLATE
+40_Organizational_Communication_Standards_TEMPLATE
+
+==================================================
+TECHNOLOGY
+==================================================
+
+Reserved for future technology-related templates.
+
+==================================================
+VOLUNTEERS
+==================================================
+
+Reserved for future volunteer-related templates.
+
+==================================================
+OPERATIONS
+==================================================
+
+Reserved for future operational templates.
+
+TOTAL TEMPLATES: 40
+
+Last Updated: August 2026
+Repository: AGHFVIP
